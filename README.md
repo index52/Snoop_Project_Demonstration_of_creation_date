@@ -1,10 +1,12 @@
 Snoop Project 1997 год
 ======================
 
-##Этот репозиторий был создан на Github якобы в пятницу 13 1997 года (если смотреть на дату создания по коммитам).  
-##У Github есть специальный api в котором отображается реальная история пользователя.
+## Этот репозиторий был создан на Github якобы в пятницу 13 1997 года (если смотреть на дату создания по коммитам)/This repository was created on Github ostensibly on Friday the 13th 1997 (when looking at the creation date by commit).  
 
-##Только для теста.
+History https://github.com/snooppr/Snoop_Project_Demonstration_of_creation_date/commits/master
+
+## У Github есть специальный api, в котором отображается реальная история пользователя (в том числе и создание репозиториев).
+## Только для теста.
 
 ## Snoop Project один из самых перспективных OSINT-инструментов по поиску никнеймов.
 - [X] This is the most powerful software taking into account the CIS location.
